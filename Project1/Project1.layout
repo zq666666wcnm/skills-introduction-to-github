@@ -1,0 +1,32 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 4,
+        "filename": "D:/小熊猫/projects/Project1/add.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 2,
+        "caretY": 8,
+        "filename": "D:/小熊猫/projects/Project1/main.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 0
+    },
+    {
+        "caretX": 2,
+        "caretY": 4,
+        "filename": "D:/小熊猫/projects/Project1/add.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    }
+]
